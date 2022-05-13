@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
-        <TargetFrameworks>net452</TargetFrameworks>
+        <TargetFrameworks>net48</TargetFrameworks>
     </PropertyGroup>
     <ItemGroup>
       <PackageReference Include="CompareNETObjects" Version="4.71.0" />
