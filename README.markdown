@@ -122,6 +122,11 @@ Client http form keys:
 
 ## History
 
+##### Version 2.2.0 (2022-05-12)
+
+* add support of TypeConverter on types that need it
+* add SaveAs method on HttpFile to simplify the save of the file
+
 ##### Version 2.1.1 (2021-04-24)
 
 * add support of form data square notation (keys like model[property])
